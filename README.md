@@ -1,2 +1,2 @@
 # BasicChat
-basit bir mesajlaşma uygulaması
+React native expo kullanılan basit bir mesajlaşma uygulaması 
