@@ -78,7 +78,7 @@ const App = () => {
             component={TabsNavigator}
             options={{ headerShown: false }}
           />
-          <Stack.Screen name="Chat" component={Chat} />
+          <Stack.Screen name="Chat" component={Chat}/>
           <Stack.Screen
             name="SignUp"
             component={SignUp}
